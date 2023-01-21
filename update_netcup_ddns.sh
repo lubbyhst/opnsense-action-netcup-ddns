@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 
 # This script will update given netcup domain dns record with the actual ip of the calling service
 # Parameters:
